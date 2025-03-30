@@ -1,0 +1,15 @@
+README.md
+setup.py
+projectemailspam.egg-info/PKG-INFO
+projectemailspam.egg-info/SOURCES.txt
+projectemailspam.egg-info/dependency_links.txt
+projectemailspam.egg-info/requires.txt
+projectemailspam.egg-info/top_level.txt
+src/__init__.py
+src/config.py
+src/predict.py
+src/text_prediction.py
+src/train.py
+tests/__init__.py
+tests/test_prediction.py
+tests/test_preprocess.py

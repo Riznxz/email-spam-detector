@@ -1,0 +1,9 @@
+2025-03-29 14:23:42 - __main__ - INFO - Starting app...
+2025-03-29 14:23:42 - __main__ - WARNING - Low disk space!
+2025-03-29 14:23:42 - __main__ - ERROR - Failed to load model!
+2025-03-29 15:23:24 - utils.logger - INFO - Starting app...
+2025-03-29 15:23:24 - utils.logger - WARNING - Low disk space!
+2025-03-29 15:23:24 - utils.logger - ERROR - Failed to load model!
+2025-03-29 15:24:21 - utils.loggerr - INFO - Starting app...
+2025-03-29 15:24:21 - utils.loggerr - WARNING - Low disk space!
+2025-03-29 15:24:21 - utils.loggerr - ERROR - Failed to load model!
